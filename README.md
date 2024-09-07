@@ -7,7 +7,7 @@ Daftar biodata siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 
-  1. Nama   : Aco Wahyudi
+1. Nama   : Aco Wahyudi
    NIM    : H2020000001
    JK     : Laki - Laki
    Agama  : Islam
